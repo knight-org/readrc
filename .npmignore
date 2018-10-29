@@ -1,0 +1,30 @@
+# base
+node_modules
+package-lock.json
+src
+# tests
+test
+coverage
+
+caches
+
+# build tools
+.travis.yml
+.jenkins.yml
+.codeclimate.yml
+
+test/
+
+/lib/configs/stories.js
+
+# linters
+.jscsrc
+.jshintrc
+.eslintrc*
+
+.babelrc
+/gulpfile.js
+
+# editor settings
+.idea
+.editorconfig
