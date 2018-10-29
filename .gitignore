@@ -1,0 +1,42 @@
+node_modules
+package-lock.json
+npm-debug.log
+.DS_Store
+storybook-static
+
+caches
+
+npm-debug.log
+node_modules/
+.idea/
+package-lock.json
+coverage
+
+/lib/configs/stories.js
+
+# some local files
+*/.settings/
+*/.DS_Store
+.DS_Store
+*/.idea/
+.idea/
+gradlew
+gradlew.bat
+unused.txt
+
+# Log Files
+*.log
+
+# Lines that start with '#' are comments.
+# IntelliJ IDEA Project files
+.idea
+*.iml
+*.ipr
+*.iws
+
+*.bak
+*.tem
+*.temp
+#.swp
+*.*~
+~*.*
